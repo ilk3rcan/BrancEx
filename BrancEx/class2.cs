@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BrancEx
 {
-    class ddddd
+    class class2
     {
     }
 }
