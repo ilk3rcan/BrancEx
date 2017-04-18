@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BrancEx
+namespace NewBranchEx
 {
-    class class2
+    public class Class1
     {
     }
 }
